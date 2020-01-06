@@ -1,0 +1,19 @@
+.navbar {
+  background-color:rgb(194, 214, 214) !important; 
+}
+
+.chart-space {
+  margin-top: 75px;
+  text-align: center;
+}
+
+rect {
+  fill: rgb(194, 214, 214);
+  }
+
+.about {
+  text-align: center;
+  margin: auto;
+  margin-top: 75px;
+  width: 60%;
+}
